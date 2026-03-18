@@ -48,4 +48,4 @@
  3 - A estrutura dos nomes e notas deverá esta escrita da seguinte maneira, Lista de Tuplas [("Nome", [notas])].
 
 4 - Verificar se as notas dos alunos estao vazias ou corrompidas.
- 
+ ![alt text](image.png)
