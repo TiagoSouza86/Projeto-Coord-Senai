@@ -1,0 +1,17 @@
+RELATÓRIO FINAL DE NOTAS
+==============================
+Aluno: Gustavo Silva | Média: 8.17 | Situação: Aprovado
+Aluno: Maria Rosa | Média: 5.55 | Situação: Recuperação
+Aluno: João Pedro | ERRO: Dados inválidos ou incompletos.
+Aluno: Ana Cristine  | ERRO: Dados inválidos ou incompletos.
+Aluno: Pedro Santos  | Média: 9.10 | Situação: Aprovado
+Aluno: Tiago Henrique | Média: 8.47 | Situação: Aprovado
+Aluno: Fernanda Vasconcelo | Média: 6.23 | Situação: Recuperação
+Aluno: Luana Pires | Média: 8.07 | Situação: Aprovado
+Aluno: Carla Tocantis | Média: 7.60 | Situação: Aprovado
+Aluno: Caroline Andrade | Média: 6.40 | Situação: Recuperação
+Aluno: Receba Souza | Média: 5.30 | Situação: Recuperação
+Aluno: Felipe Pires | Média: 8.43 | Situação: Aprovado
+Aluno: Anne Flavia | Média: 9.57 | Situação: Aprovado
+==============================
+TOP STUDENT: Anne Flavia com média 9.57
